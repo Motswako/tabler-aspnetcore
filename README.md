@@ -1,2 +1,5 @@
 # tabler-aspnetcore
-An asp.net core project that uses tabler
+>A asp.net core project that uses tabler bootstrap admin template
+
+
+
