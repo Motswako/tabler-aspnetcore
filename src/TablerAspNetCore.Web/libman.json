@@ -1,0 +1,47 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "provider": "unpkg",
+      "library": "bootstrap@4.4.1",
+      "destination": "wwwroot/lib/bootstrap"
+    },
+    {
+      "library": "jquery@3.5.0",
+      "destination": "wwwroot/lib/jquery"
+    },
+    {
+      "library": "jquery-validate@1.19.1",
+      "destination": "wwwroot/lib/jquery-validate"
+    },
+    {
+      "library": "jquery-validation-unobtrusive@3.2.11",
+      "destination": "wwwroot/lib/jquery-validation-unobtrusive"
+    },
+    {
+      "library": "popper.js@1.16.1",
+      "destination": "wwwroot/lib/popper"
+    },
+    {
+      "library": "selectize.js@0.12.6",
+      "destination": "wwwroot/lib/selectize"
+    },
+    {
+      "library": "jquery.tablesorter@2.31.3",
+      "destination": "wwwroot/lib/jquery-tablesorter"
+    },
+    {
+      "library": "jvectormap@2.0.5",
+      "destination": "wwwroot/lib/jquery-jvectormap"
+    },
+    {
+      "library": "jquery-circle-progress@1.2.2",
+      "destination": "wwwroot/lib/jquery-circle-progress"
+    },
+    {
+      "library": "Chart.js@2.9.3",
+      "destination": "wwwroot/lib/chartjs"
+    }
+  ]
+}
