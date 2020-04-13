@@ -42,6 +42,26 @@
     {
       "library": "Chart.js@2.9.3",
       "destination": "wwwroot/lib/chartjs"
+    },
+    {
+      "library": "c3@0.7.15",
+      "destination": "wwwroot/lib/c3"
+    },
+    {
+      "library": "jquery.mask@1.14.16",
+      "destination": "wwwroot/lib/jquery-mask-plugin"
+    },
+    {
+      "library": "prism@1.20.0",
+      "destination": "wwwroot/lib/prismjs"
+    },
+    {
+      "library": "jquery-sparklines@2.1.2",
+      "destination": "wwwroot/lib/jquery-sparklines"
+    },
+    {
+      "library": "d3@5.15.1",
+      "destination": "wwwroot/lib/d3"
     }
   ]
 }
