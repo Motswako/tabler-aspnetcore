@@ -8,9 +8,4 @@
       <PackageReference Include="Microsoft.Web.LibraryManager.Build" Version="2.0.96" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="Controller" />
-      <Folder Include="Views\Shared" />
-    </ItemGroup>
-
 </Project>
